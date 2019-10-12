@@ -79,6 +79,4 @@
     }
 </script>
 
-<script async defer
-        src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAEGkIWfnUDIgNJvnxFyn1CP_c0tNWN63g"></script>
 

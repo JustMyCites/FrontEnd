@@ -1,5 +1,5 @@
 # FrontEnd
 Making improvements on front end of certain pages
--unclaimed
--claimed
--categories
+<br>-unclaimed
+<br>-claimed
+<br>-categories
